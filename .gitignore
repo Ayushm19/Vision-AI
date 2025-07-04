@@ -7,6 +7,13 @@
 /.next/
 /out/
 
+# Ignore Python virtual environment
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
 # production
 /build
 
